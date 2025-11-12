@@ -48,9 +48,10 @@ Tujuan percobaan ini adalah untuk membuktikan bahwa ESP32 dapat menjalankan bebe
 | 9 | **Amati Keseluruhan** | Amati semua komponen secara bersamaan sambil berinteraksi dengan sensor. | Semua *task* (LED, buzzer, motor, sensor) berjalan serentak tanpa saling mengganggu, membuktikan sistem *multitasking* FreeRTOS berjalan dengan sukses. |
 
 # Bukti Hasil
-link Vidio 
-https://drive.google.com/file/d/1hDK6pHW9XEeVkRYeDvAPhK-xJy6eArNg/view
 
+Gambar Rangkaian
 <img width="952" height="613" alt="image" src="https://github.com/user-attachments/assets/1566bd21-45b0-400f-a41a-9eebabd7eaa5" />
 
+Vidio
+https://github.com/user-attachments/assets/b6b9b251-7fb5-42c8-92a4-f2cc726aea1a
 
