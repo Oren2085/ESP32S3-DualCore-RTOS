@@ -53,5 +53,5 @@ Gambar Rangkaian
 <img width="952" height="613" alt="image" src="https://github.com/user-attachments/assets/1566bd21-45b0-400f-a41a-9eebabd7eaa5" />
 
 Vidio
-https://github.com/user-attachments/assets/b6b9b251-7fb5-42c8-92a4-f2cc726aea1a
+https://github.com/user-attachments/assets/79b80f79-dd00-468f-b78e-2f87b9ccd32b
 
